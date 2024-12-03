@@ -1,16 +1,6 @@
 # Growflix 🎥
 Este projeto é uma página interativa chamada Growflix, inspirada em serviços de streaming, com foco em conteúdo educacional, como podcasts, webinars e muito mais. A proposta é proporcionar uma experiência imersiva e responsiva para os usuários.
 
-## 📋 Índice
-
-1. [Descrição](#descrição)
-2. [Funcionalidades](#funcionalidades)
-3. [Tecnologias Utilizadas](#tecnologias-utilizadas)
-4. [Como Rodar o Projeto](#como-rodar-o-projeto)
-5. [Estrutura de Arquivos](#estrutura-de-arquivos)
-6. [Preview](#preview)
-7. [Licença](#licença)
-
 ## 📖 Descrição
 
 **Growflix** é um projeto desenvolvido para simular uma plataforma de streaming, onde você pode acessar conteúdos educacionais de forma fácil e organizada. Possui um design moderno e responsivo, garantindo uma ótima experiência para todos os dispositivos.
