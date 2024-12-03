@@ -56,6 +56,7 @@ Este projeto é uma página interativa chamada Growflix, inspirada em serviços 
 
 ![Demonstração do Growflix Index](./assets/image.png)
 
+[Demonstração em vídeo do Growflix](https://github.com/thainatuanne/Growflix/raw/main/assets/growflixGif.mp4)
 
 ---
 
