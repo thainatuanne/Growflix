@@ -1,2 +1,64 @@
-# Growflix
-Este projeto é uma página interativa chamada Growflix, inspirada em serviços de streaming. Ele foca em oferecer um design responsivo, conteúdos organizados por seções e uma experiência de usuário intuitiva.
+# Growflix 🎥
+Este projeto é uma página interativa chamada Growflix, inspirada em serviços de streaming, com foco em conteúdo educacional, como podcasts, webinars e muito mais. A proposta é proporcionar uma experiência imersiva e responsiva para os usuários.
+
+## 📋 Índice
+
+1. [Descrição](#descrição)
+2. [Funcionalidades](#funcionalidades)
+3. [Tecnologias Utilizadas](#tecnologias-utilizadas)
+4. [Como Rodar o Projeto](#como-rodar-o-projeto)
+5. [Estrutura de Arquivos](#estrutura-de-arquivos)
+6. [Preview](#preview)
+7. [Licença](#licença)
+
+## 📖 Descrição
+
+**Growflix** é um projeto desenvolvido para simular uma plataforma de streaming, onde você pode acessar conteúdos educacionais de forma fácil e organizada. Possui um design moderno e responsivo, garantindo uma ótima experiência para todos os dispositivos.
+
+## 🛠 Tecnologias Utilizadas
+
+### Linguagens:
+- HTML5
+- CSS3
+- JavaScript
+
+### Frameworks e Ferramentas
+- Bootstrap 5
+- Git e GitHub
+
+### Fontes
+- Roboto Flex e Open Sans
+---
+
+## ✨ Funcionalidades
+
+```bash
+# Navegação
+- Responsiva e acessível
+- Scroll suave entre seções
+
+# Conteúdo Dinâmico
+- Modal interativo para assistir vídeos
+- Organização em categorias (Podcasts, Webinars, UX/UI)
+
+# Estrutura Responsiva
+- Suporte para desktop, tablet e mobile
+
+# Perguntas Frequentes
+- Acordeão interativo com perguntas comuns, mas explicando o acordeão .push
+
+# Rodapé
+- Links úteis organizados em colunas
+
+```
+
+## 🎨 Preview
+
+![Demonstração do Growflix Index](./assets/image.png)
+
+
+---
+
+## 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT.
